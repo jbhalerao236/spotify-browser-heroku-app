@@ -1,0 +1,26 @@
+{
+  "name": "a3-spotify-browser-jbhalerao236",
+  "version": "1.0.0",
+  "description": "--Readme document for Jessica Bhalerao, jbhalera@uci.edu, 76535936--",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/uci-inf-133/a3-spotify-browser-jbhalerao236.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/uci-inf-133/a3-spotify-browser-jbhalerao236/issues"
+  },
+  "homepage": "https://github.com/uci-inf-133/a3-spotify-browser-jbhalerao236#readme",
+  "dependencies": {
+    "express": "^4.18.2",
+    "start": "^5.1.0"
+  },
+  "engines": {
+    "node": "14.15.0"
+  }
+}
